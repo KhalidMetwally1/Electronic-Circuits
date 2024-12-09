@@ -27,7 +27,3 @@ This repository is made possible with the guidance and support of:
 - **[Eng. Omar Khalid]**  
   - Teaching Assistant at Kafr El-Sheikh University.  
   - [Supporting Materials Drive Folder](https://drive.google.com/drive/folders/18ESH1g_e9RdG2LMvNUlV8vh-IDgciUXh)  
-
-We extend our gratitude to our mentors for their invaluable guidance and resources.  
-
-## 📜
